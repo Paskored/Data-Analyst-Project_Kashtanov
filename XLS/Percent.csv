@@ -1,10 +1,9 @@
-﻿Country;%_of_population_eating_chocolate;Cost_kg_USD
-Afghanistan;15%;12,0
+Country;%_of_population_eating_chocolate;Cost_kg_USD
 Albania;48%;6,2
 Algeria;35%;8,5
 Andorra;87%;9,8
 Angola;31%;8,8
-Antigua & Barbuda;68%;8,6
+Antigua and Barbuda;68%;8,6
 Argentina;65%;5,9
 Armenia;58%;6,5
 Aruba;77%;10,4
@@ -22,8 +21,8 @@ Belize;55%;6,8
 Benin;14%;7,8
 Bermuda;82%;16,0
 Bhutan;32%;8,3
-Bolivia;40%;5,4
-Bosnia & Herzegovina;66%;6,9
+Bolivia (Plurinational State of);40%;5,4
+Bosnia and Herzegovina;66%;6,9
 Botswana;36%;7,4
 Brazil;63%;6,7
 Brunei Darussalam;55%;10,2
@@ -34,15 +33,17 @@ Cabo Verde;40%;8,1
 Cambodia;27%;6,2
 Cameroon;35%;7,8
 Canada;88%;12,5
-Central African Rep.;15%;11,2
+Central African Republic;15%;11,2
 Chile;75%;6,9
-China (Mainland);50%;8,3
+China;50%;8,3
+China, Hong Kong SAR;80%;13,0
+China, Macao SAR;90%;13,6
 Colombia;65%;5,6
 Comoros;18%;9,5
 Congo;18%;9,2
 Cook Islands;63%;14,5
 Costa Rica;70%;6,4
-Côte d'Ivoire;22%;6,1
+C?te d'Ivoire;22%;6,1
 Croatia;78%;7,2
 Cuba;45%;11,2
 Cyprus;85%;8,9
@@ -58,31 +59,31 @@ Eritrea;8%;11,5
 Estonia;83%;8,1
 Eswatini;29%;7,6
 Ethiopia;12%;9,0
-EU (27);82%;9,4
+European Union (27);82%;9,4
 Faroe Islands;78%;15,2
 Fiji;62%;9,6
 Finland;92%;10,9
-France;89%;11,3
-French Polynesia;65%;16,5
-Gabon;32%;8,7
-Gambia;18%;7,2
-Georgia;55%;6,4
-Germany;94%;9,8
-Ghana;25%;5,3
-Greece;73%;8,4
-Greenland;68%;14,8
-Grenada;52%;6,9
-Guatemala;48%;5,8
-Guinea;12%;9,1
-Guinea-Bissau;13%;8,4
-Guyana;52%;6,7
-Honduras;45%;5,6
-Hong Kong SAR;92%;14,8
+Fmr Sudan;89%;11,3
+France;65%;16,5
+French Polynesia;32%;8,7
+Gabon;18%;7,2
+Gambia;55%;6,4
+Georgia;94%;9,8
+Germany;25%;5,3
+Ghana;73%;8,4
+Greece;68%;14,8
+Greenland;52%;6,9
+Grenada;48%;5,8
+Guatemala;12%;9,1
+Guinea;13%;8,4
+Guinea-Bissau;52%;6,7
+Guyana;45%;5,6
+Honduras;92%;14,8
 Hungary;76%;7,5
 Iceland;85%;13,4
 India;28%;4,5
 Indonesia;22%;5,1
-Iran;52%;12,8
+Iran (Islamic Republic of);52%;12,8
 Iraq;41%;9,4
 Ireland;91%;10,6
 Israel;74%;12,7
@@ -95,14 +96,13 @@ Kenya;25%;6,8
 Kiribati;28%;12,5
 Kuwait;79%;9,8
 Kyrgyzstan;47%;5,9
-Laos;24%;7,5
+Lao People's Democratic Republic;24%;7,5
 Latvia;81%;8,3
 Lebanon;65%;9,5
 Lesotho;21%;7,9
 Libya;42%;10,9
 Lithuania;79%;8,1
 Luxembourg;91%;11,5
-Macao SAR;90%;13,6
 Madagascar;19%;7,4
 Malawi;17%;7,1
 Malaysia;58%;7,1
@@ -114,7 +114,6 @@ Mauritius;71%;7,7
 Mayotte;57%;12,4
 Mexico;67%;6,5
 Micronesia;34%;10,7
-Moldova;56%;6,1
 Mongolia;42%;9,2
 Montenegro;65%;7,4
 Montserrat;58%;13,8
@@ -123,7 +122,7 @@ Mozambique;24%;7,3
 Myanmar;20%;6,9
 Namibia;43%;7,8
 Nepal;23%;6,5
-Netherlands;93%;9,6
+Netherlands (Kingdom of the);93%;9,6
 Netherlands Antilles (former);72%;9,9
 New Caledonia;74%;14,8
 New Zealand;84%;13,1
@@ -145,16 +144,20 @@ Philippines;48%;6,8
 Poland;82%;7,4
 Portugal;78%;8,2
 Qatar;75%;10,5
+Republic of Korea;71%;13,6
+Republic of Moldova;56%;6,1
 Romania;74%;7,0
-Russia;66%;9,3
+Russian Federation;66%;9,3
 Rwanda;17%;8,4
+Saint Kitts and Nevis;61%;7,7
+Saint Lucia;58%;7,5
 Saint Vincent and the Grenadines;60%;7,6
 Samoa;54%;8,9
-São Tomé & Príncipe;38%;5,9
+Sao Tome and Principe;38%;5,9
 Saudi Arabia;72%;9,1
 Senegal;21%;7,9
 Serbia;69%;6,8
-Serbia;69%;6,8
+Serbia and Montenegro;70%;10,0
 Seychelles;76%;14,2
 Sierra Leone;11%;8,7
 Singapore;85%;12,9
@@ -162,38 +165,33 @@ Slovakia;77%;7,3
 Slovenia;80%;7,9
 Solomon Islands;36%;12,2
 South Africa;54%;6,4
-South Africa;54%;6,4
-South Korea;71%;13,6
 Spain;81%;8,8
 Sri Lanka;42%;6,8
-St. Kitts & Nevis;61%;7,7
-St. Lucia;58%;7,5
 Sudan;16%;13,5
 Suriname;49%;6,6
 Sweden;92%;11,5
 Switzerland;97%;15,3
-Syria;22%;14,2
+Syrian Arab Republic;22%;14,2
 Thailand;53%;7,2
 Timor-Leste;29%;9,3
 Togo;13%;8,6
 Tonga;54%;9,1
-Trinidad & Tobago;67%;6,9
+Trinidad and Tobago;67%;6,9
 Tunisia;44%;6,7
-Türkiye;62%;7,8
+T?rkiye;62%;7,8
 Turkmenistan;47%;8,5
-Turks & Caicos;72%;13,2
-Tuvalu;30%;14,0
-UAE;83%;10,2
+Turks and Caicos Islands;72%;13,2
 Uganda;18%;7,5
 Ukraine;64%;6,2
+United Arab Emirates;83%;10,2
 United Kingdom of Great Britain and Northern Ireland;88%;11,8
 United Republic of Tanzania;15%;6,9
 Uruguay;72%;8,4
 USA;79%;10,4
 Vanuatu;47%;11,6
 Venezuela (Bolivarian Republic of);35%;12,5
-Vietnam;39%;7,0
-Wallis & Futuna;61%;15,5
+Viet Nam;39%;7,0
+Wallis and Futuna Islands;61%;15,5
 Yemen;11%;15,0
 Zambia;22%;7,2
 Zimbabwe;33%;8,2
