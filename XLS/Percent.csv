@@ -1,4 +1,4 @@
-Country;%_of_population_eating_chocolate;Cost_kg_USD
+Country;percent_of_population_eating_chocolate;Cost_kg_USD
 Albania;48%;6,2
 Algeria;35%;8,5
 Andorra;87%;9,8
@@ -19,7 +19,7 @@ Belgium;95%;10,8
 Belgium-Luxembourg;93%;11,2
 Belize;55%;6,8
 Benin;14%;7,8
-Bermuda;82%;16,0
+Bermuda;82%;16
 Bhutan;32%;8,3
 Bolivia (Plurinational State of);40%;5,4
 Bosnia and Herzegovina;66%;6,9
@@ -27,7 +27,7 @@ Botswana;36%;7,4
 Brazil;63%;6,7
 Brunei Darussalam;55%;10,2
 Bulgaria;68%;5,9
-Burkina Faso;12%;9,0
+Burkina Faso;12%;9
 Burundi;8%;10,5
 Cabo Verde;40%;8,1
 Cambodia;27%;6,2
@@ -36,14 +36,14 @@ Canada;88%;12,5
 Central African Republic;15%;11,2
 Chile;75%;6,9
 China;50%;8,3
-China, Hong Kong SAR;80%;13,0
+China, Hong Kong SAR;80%;13
 China, Macao SAR;90%;13,6
 Colombia;65%;5,6
 Comoros;18%;9,5
 Congo;18%;9,2
 Cook Islands;63%;14,5
 Costa Rica;70%;6,4
-C?te d'Ivoire;22%;6,1
+Cote d'Ivoire;22%;6,1
 Croatia;78%;7,2
 Cuba;45%;11,2
 Cyprus;85%;8,9
@@ -58,12 +58,11 @@ El Salvador;56%;5,3
 Eritrea;8%;11,5
 Estonia;83%;8,1
 Eswatini;29%;7,6
-Ethiopia;12%;9,0
+Ethiopia;12%;9
 European Union (27);82%;9,4
 Faroe Islands;78%;15,2
 Fiji;62%;9,6
 Finland;92%;10,9
-Fmr Sudan;89%;11,3
 France;65%;16,5
 French Polynesia;32%;8,7
 Gabon;18%;7,2
@@ -129,10 +128,10 @@ New Zealand;84%;13,1
 Nicaragua;39%;5,4
 Niger;9%;10,3
 Nigeria;23%;6,2
-North Macedonia;64%;6,0
+North Macedonia;64%;6
 Norway;90%;14,5
 Oman;68%;8,9
-Other Asia, nes;35%;9,0
+Other Asia, nes;35%;9
 Pakistan;25%;5,9
 Palau;61%;13,3
 Palestine;38%;8,7
@@ -146,7 +145,7 @@ Portugal;78%;8,2
 Qatar;75%;10,5
 Republic of Korea;71%;13,6
 Republic of Moldova;56%;6,1
-Romania;74%;7,0
+Romania;74%;7
 Russian Federation;66%;9,3
 Rwanda;17%;8,4
 Saint Kitts and Nevis;61%;7,7
@@ -157,7 +156,7 @@ Sao Tome and Principe;38%;5,9
 Saudi Arabia;72%;9,1
 Senegal;21%;7,9
 Serbia;69%;6,8
-Serbia and Montenegro;70%;10,0
+Serbia and Montenegro;70%;10
 Seychelles;76%;14,2
 Sierra Leone;11%;8,7
 Singapore;85%;12,9
@@ -167,7 +166,7 @@ Solomon Islands;36%;12,2
 South Africa;54%;6,4
 Spain;81%;8,8
 Sri Lanka;42%;6,8
-Sudan;16%;13,5
+Sudan;56%;13,5
 Suriname;49%;6,6
 Sweden;92%;11,5
 Switzerland;97%;15,3
@@ -178,7 +177,7 @@ Togo;13%;8,6
 Tonga;54%;9,1
 Trinidad and Tobago;67%;6,9
 Tunisia;44%;6,7
-T?rkiye;62%;7,8
+Turkiye;62%;7,8
 Turkmenistan;47%;8,5
 Turks and Caicos Islands;72%;13,2
 Uganda;18%;7,5
@@ -190,8 +189,8 @@ Uruguay;72%;8,4
 USA;79%;10,4
 Vanuatu;47%;11,6
 Venezuela (Bolivarian Republic of);35%;12,5
-Viet Nam;39%;7,0
+Viet Nam;39%;7
 Wallis and Futuna Islands;61%;15,5
-Yemen;11%;15,0
+Yemen;11%;15
 Zambia;22%;7,2
 Zimbabwe;33%;8,2
